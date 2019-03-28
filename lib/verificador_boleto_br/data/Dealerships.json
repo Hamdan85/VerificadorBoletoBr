@@ -1,0 +1,3222 @@
+[
+  {
+    "segment": 1,
+    "code": "1958",
+    "dealership": "SEAMA IPERO"
+  },
+  {
+    "segment": 1,
+    "code": "3767",
+    "dealership": "PM SALTO IMPOSTOS"
+  },
+  {
+    "segment": 1,
+    "code": "5701",
+    "dealership": "PM SAO PAULO"
+  },
+  {
+    "segment": 1,
+    "code": "5889",
+    "dealership": "PMSP DIVIDA ATIVA - PEP"
+  },
+  {
+    "segment": 1,
+    "code": "3854",
+    "dealership": "PM SANTA MARIA DA BOA VISTA"
+  },
+  {
+    "segment": 1,
+    "code": "3180",
+    "dealership": "PM PAUDALHO"
+  },
+  {
+    "segment": 1,
+    "code": "1888",
+    "dealership": "PM IGARASSU"
+  },
+  {
+    "segment": 1,
+    "code": "3669",
+    "dealership": "PM RIO FORMOSO  PE"
+  },
+  {
+    "segment": 1,
+    "code": "3621",
+    "dealership": "PM RIBEIRAO - PE"
+  },
+  {
+    "segment": 1,
+    "code": "2171",
+    "dealership": "PM JABOATAO GUARARAPES"
+  },
+  {
+    "segment": 1,
+    "code": "3187",
+    "dealership": "PM CIDADE DO PAULISTA"
+  },
+  {
+    "segment": 1,
+    "code": "1968",
+    "dealership": "PM IPOJUCA"
+  },
+  {
+    "segment": 1,
+    "code": "2992",
+    "dealership": "PM OLINDA"
+  },
+  {
+    "segment": 1,
+    "code": "3018",
+    "dealership": "PM OURICURI"
+  },
+  {
+    "segment": 1,
+    "code": "1016",
+    "dealership": "PM CARPINA - PE"
+  },
+  {
+    "segment": 1,
+    "code": "0823",
+    "dealership": "PM CAMARAGIBE"
+  },
+  {
+    "segment": 1,
+    "code": "0584",
+    "dealership": "PM BOM CONSELHO"
+  },
+  {
+    "segment": 1,
+    "code": "4336",
+    "dealership": "PM SERRA TALHADA"
+  },
+  {
+    "segment": 1,
+    "code": "1715",
+    "dealership": "PM GRAVATA"
+  },
+  {
+    "segment": 1,
+    "code": "3329",
+    "dealership": "PM PIRAI"
+  },
+  {
+    "segment": 1,
+    "code": "2439",
+    "dealership": "PM LINHARES"
+  },
+  {
+    "segment": 1,
+    "code": "1859",
+    "dealership": "PM IBIRITE"
+  },
+  {
+    "segment": 1,
+    "code": "0500",
+    "dealership": "PM PORTO REAL"
+  },
+  {
+    "segment": 1,
+    "code": "0697",
+    "dealership": "PM BRUSQUE"
+  },
+  {
+    "segment": 1,
+    "code": "3980",
+    "dealership": "PM SANTOS"
+  },
+  {
+    "segment": 1,
+    "code": "3644",
+    "dealership": "PM RIO BONITO"
+  },
+  {
+    "segment": 1,
+    "code": "0085",
+    "dealership": "PM ALAMBARI"
+  },
+  {
+    "segment": 1,
+    "code": "0759",
+    "dealership": "PM CACHOEIRO DE ITAPEMIRIM"
+  },
+  {
+    "segment": 1,
+    "code": "4784",
+    "dealership": "PM VITORIA"
+  },
+  {
+    "segment": 1,
+    "code": "0772",
+    "dealership": "PM CAETE"
+  },
+  {
+    "segment": 1,
+    "code": "1199",
+    "dealership": "PM CONTAGEM"
+  },
+  {
+    "segment": 1,
+    "code": "1703",
+    "dealership": "PM GOVERNADOR VALADARES"
+  },
+  {
+    "segment": 1,
+    "code": "2581",
+    "dealership": "PM MARIANA"
+  },
+  {
+    "segment": 1,
+    "code": "4739",
+    "dealership": "PM VESPASIANO"
+  },
+  {
+    "segment": 1,
+    "code": "0511",
+    "dealership": "PM BELEM"
+  },
+  {
+    "segment": 1,
+    "code": "1766",
+    "dealership": "PM GUARAPUAVA"
+  },
+  {
+    "segment": 1,
+    "code": "4652",
+    "dealership": "PM UMUARAMA"
+  },
+  {
+    "segment": 1,
+    "code": "2624",
+    "dealership": "PM MATEUS LEME"
+  },
+  {
+    "segment": 1,
+    "code": "2409",
+    "dealership": "PM LAURO DE FREITAS"
+  },
+  {
+    "segment": 1,
+    "code": "3023",
+    "dealership": "PM OURO BRANCO"
+  },
+  {
+    "segment": 1,
+    "code": "3134",
+    "dealership": "PM PARATY"
+  },
+  {
+    "segment": 1,
+    "code": "1380",
+    "dealership": "PM DOBRADA"
+  },
+  {
+    "segment": 1,
+    "code": "4849",
+    "dealership": "PM BUZIOS"
+  },
+  {
+    "segment": 1,
+    "code": "3569",
+    "dealership": "PM RECIFE"
+  },
+  {
+    "segment": 1,
+    "code": "0502",
+    "dealership": "PM BAURU"
+  },
+  {
+    "segment": 1,
+    "code": "1953",
+    "dealership": "PM IPATINGA"
+  },
+  {
+    "segment": 1,
+    "code": "2012",
+    "dealership": "PM ITABIRA"
+  },
+  {
+    "segment": 1,
+    "code": "2044",
+    "dealership": "PM ITAJAI"
+  },
+  {
+    "segment": 1,
+    "code": "2285",
+    "dealership": "PM JOAO MONLEVADE"
+  },
+  {
+    "segment": 1,
+    "code": "2378",
+    "dealership": "PM LAGOA SANTA"
+  },
+  {
+    "segment": 1,
+    "code": "5375",
+    "dealership": "PM MESQUITA - RJ"
+  },
+  {
+    "segment": 1,
+    "code": "2672",
+    "dealership": "PM MIGUEL PEREIRA"
+  },
+  {
+    "segment": 1,
+    "code": "2857",
+    "dealership": "PM NILOPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "2917",
+    "dealership": "PM NOVA LIMA"
+  },
+  {
+    "segment": 1,
+    "code": "3027",
+    "dealership": "PM OURO PRETO"
+  },
+  {
+    "segment": 1,
+    "code": "3098",
+    "dealership": "PM PARA DE MINAS"
+  },
+  {
+    "segment": 1,
+    "code": "3171",
+    "dealership": "PM PATOS DE MINAS"
+  },
+  {
+    "segment": 1,
+    "code": "3738",
+    "dealership": "PM SABARA"
+  },
+  {
+    "segment": 1,
+    "code": "4355",
+    "dealership": "PM SETE LAGOAS"
+  },
+  {
+    "segment": 1,
+    "code": "3776",
+    "dealership": "PM SALVADOR"
+  },
+  {
+    "segment": 1,
+    "code": "4516",
+    "dealership": "PM TERESOPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "4577",
+    "dealership": "PM TRES LAGOAS"
+  },
+  {
+    "segment": 1,
+    "code": "0215",
+    "dealership": "PM ANGRA DOS REIS"
+  },
+  {
+    "segment": 1,
+    "code": "0471",
+    "dealership": "PM BARRA MANSA"
+  },
+  {
+    "segment": 1,
+    "code": "0465",
+    "dealership": "PM BARRA DO PIRAI"
+  },
+  {
+    "segment": 1,
+    "code": "0695",
+    "dealership": "PM BRUMADINHO"
+  },
+  {
+    "segment": 1,
+    "code": "0729",
+    "dealership": "PM CABO FRIO"
+  },
+  {
+    "segment": 1,
+    "code": "0820",
+    "dealership": "PM CAMANDUCAIA"
+  },
+  {
+    "segment": 1,
+    "code": "1190",
+    "dealership": "PM CONGONHAS"
+  },
+  {
+    "segment": 1,
+    "code": "0326",
+    "dealership": "PM AREALVA"
+  },
+  {
+    "segment": 1,
+    "code": "0883",
+    "dealership": "PM CAMPOS DOS GOYTACAZES"
+  },
+  {
+    "segment": 1,
+    "code": "2911",
+    "dealership": "PM NOVA IGUACU"
+  },
+  {
+    "segment": 1,
+    "code": "0545",
+    "dealership": "PM BETIM"
+  },
+  {
+    "segment": 1,
+    "code": "0868",
+    "dealership": "PM CAMPO GRANDE"
+  },
+  {
+    "segment": 1,
+    "code": "1376",
+    "dealership": "PM DIVINOPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "2048",
+    "dealership": "PM ITAJUBA"
+  },
+  {
+    "segment": 1,
+    "code": "2412",
+    "dealership": "PM LAVRAS"
+  },
+  {
+    "segment": 1,
+    "code": "2594",
+    "dealership": "PM MARINGA"
+  },
+  {
+    "segment": 1,
+    "code": "0393",
+    "dealership": "PM AVARE"
+  },
+  {
+    "segment": 1,
+    "code": "0155",
+    "dealership": "PM ALVORADA"
+  },
+  {
+    "segment": 1,
+    "code": "0737",
+    "dealership": "PM CACAPAVA DO SUL"
+  },
+  {
+    "segment": 1,
+    "code": "1066",
+    "dealership": "PM CAXIAS SUL"
+  },
+  {
+    "segment": 1,
+    "code": "2314",
+    "dealership": "PM JUIZ DE FORA"
+  },
+  {
+    "segment": 1,
+    "code": "3013",
+    "dealership": "PM OSORIO"
+  },
+  {
+    "segment": 1,
+    "code": "3164",
+    "dealership": "PM PASSO FUNDO"
+  },
+  {
+    "segment": 1,
+    "code": "3394",
+    "dealership": "PM POCOS DE CALDAS"
+  },
+  {
+    "segment": 1,
+    "code": "3433",
+    "dealership": "PM PORTO ALEGRE"
+  },
+  {
+    "segment": 1,
+    "code": "3671",
+    "dealership": "PM RIO GRANDE"
+  },
+  {
+    "segment": 1,
+    "code": "4160",
+    "dealership": "PM SAO JOSE DOS PINHAIS"
+  },
+  {
+    "segment": 1,
+    "code": "4238",
+    "dealership": "PM SAO SEBASTIAO DO CAI"
+  },
+  {
+    "segment": 1,
+    "code": "4272",
+    "dealership": "PM SAPUCAIA DO SUL"
+  },
+  {
+    "segment": 1,
+    "code": "4685",
+    "dealership": "PM VACARIA"
+  },
+  {
+    "segment": 1,
+    "code": "4723",
+    "dealership": "PM VENANCIO AIRES"
+  },
+  {
+    "segment": 1,
+    "code": "4733",
+    "dealership": "PM VERANOPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "0268",
+    "dealership": "PM ARACATUBA"
+  },
+  {
+    "segment": 1,
+    "code": "3456",
+    "dealership": "PM PORTO VELHO"
+  },
+  {
+    "segment": 1,
+    "code": "3910",
+    "dealership": "PM SANTANA PONTE PENSA"
+  },
+  {
+    "segment": 1,
+    "code": "4164",
+    "dealership": "PM SAO LEOPOLDO"
+  },
+  {
+    "segment": 1,
+    "code": "1605",
+    "dealership": "PM FORTALEZA"
+  },
+  {
+    "segment": 1,
+    "code": "4717",
+    "dealership": "PM VARZEA PAULISTA"
+  },
+  {
+    "segment": 1,
+    "code": "3407",
+    "dealership": "PM PONTAL IPTU E TAXAS"
+  },
+  {
+    "segment": 1,
+    "code": "4797",
+    "dealership": "PM FRANCA"
+  },
+  {
+    "segment": 1,
+    "code": "2644",
+    "dealership": "PM MAUA"
+  },
+  {
+    "segment": 1,
+    "code": "5896",
+    "dealership": "PM SANTO ANDRE"
+  },
+  {
+    "segment": 1,
+    "code": "3011",
+    "dealership": "PM OSASCO"
+  },
+  {
+    "segment": 1,
+    "code": "2933",
+    "dealership": "PM NOVA PRATA"
+  },
+  {
+    "segment": 1,
+    "code": "3936",
+    "dealership": "PM SANTIAGO"
+  },
+  {
+    "segment": 1,
+    "code": "3405",
+    "dealership": "PM PONTA GROSSA"
+  },
+  {
+    "segment": 1,
+    "code": "3956",
+    "dealership": "PM SANTO ANTONIO ARACANGUA"
+  },
+  {
+    "segment": 1,
+    "code": "1992",
+    "dealership": "PM IRAPURU"
+  },
+  {
+    "segment": 1,
+    "code": "2480",
+    "dealership": "PM MACATUBA"
+  },
+  {
+    "segment": 1,
+    "code": "3291",
+    "dealership": "PM PILAR DO SUL"
+  },
+  {
+    "segment": 1,
+    "code": "3891",
+    "dealership": "PM SANTA ROSA VITERBO"
+  },
+  {
+    "segment": 1,
+    "code": "4368",
+    "dealership": "PM SILVEIRAS"
+  },
+  {
+    "segment": 1,
+    "code": "4637",
+    "dealership": "PM UBATUBA"
+  },
+  {
+    "segment": 1,
+    "code": "4770",
+    "dealership": "PM VIRADOURO"
+  },
+  {
+    "segment": 1,
+    "code": "0060",
+    "dealership": "PM AGUAS DA PRATA"
+  },
+  {
+    "segment": 1,
+    "code": "0424",
+    "dealership": "PM BANANAL"
+  },
+  {
+    "segment": 1,
+    "code": "0582",
+    "dealership": "PM BOFETE"
+  },
+  {
+    "segment": 1,
+    "code": "0715",
+    "dealership": "PM BURITIZAL"
+  },
+  {
+    "segment": 1,
+    "code": "1874",
+    "dealership": "PM ICEM"
+  },
+  {
+    "segment": 1,
+    "code": "2142",
+    "dealership": "PM ITIRAPINA"
+  },
+  {
+    "segment": 1,
+    "code": "2155",
+    "dealership": "PM ITUPEVA"
+  },
+  {
+    "segment": 1,
+    "code": "2322",
+    "dealership": "PM JUNQUEIROPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "2459",
+    "dealership": "PM LUIZ ANTONIO"
+  },
+  {
+    "segment": 1,
+    "code": "2824",
+    "dealership": "PM MURUTINGA DO SUL"
+  },
+  {
+    "segment": 1,
+    "code": "3750",
+    "dealership": "PM SALES"
+  },
+  {
+    "segment": 1,
+    "code": "3787",
+    "dealership": "PM SANTA ALBERTINA"
+  },
+  {
+    "segment": 1,
+    "code": "0849",
+    "dealership": "PM CAMPINAS"
+  },
+  {
+    "segment": 1,
+    "code": "0176",
+    "dealership": "PM AMERICO BRASILIENSE"
+  },
+  {
+    "segment": 1,
+    "code": "0793",
+    "dealership": "PM CAJAMAR"
+  },
+  {
+    "segment": 1,
+    "code": "0447",
+    "dealership": "PM BARIRI"
+  },
+  {
+    "segment": 1,
+    "code": "4420",
+    "dealership": "PM TABAPUA"
+  },
+  {
+    "segment": 1,
+    "code": "4691",
+    "dealership": "PM VALENTIM GENTIL"
+  },
+  {
+    "segment": 1,
+    "code": "0029",
+    "dealership": "PM ADOLFO"
+  },
+  {
+    "segment": 1,
+    "code": "1562",
+    "dealership": "PM FERRAZ DE VASCONCELOS"
+  },
+  {
+    "segment": 1,
+    "code": "0151",
+    "dealership": "PM ALVARES MACHADO"
+  },
+  {
+    "segment": 1,
+    "code": "0062",
+    "dealership": "PM AGUAS LINDOIA"
+  },
+  {
+    "segment": 1,
+    "code": "1769",
+    "dealership": "PM GUARARAPES"
+  },
+  {
+    "segment": 1,
+    "code": "3380",
+    "dealership": "PM POA"
+  },
+  {
+    "segment": 1,
+    "code": "1783",
+    "dealership": "PM GUATAPARA"
+  },
+  {
+    "segment": 1,
+    "code": "4436",
+    "dealership": "PM TAIACU TRIBUTOS"
+  },
+  {
+    "segment": 1,
+    "code": "3140",
+    "dealership": "PM PARDINHO"
+  },
+  {
+    "segment": 1,
+    "code": "3485",
+    "dealership": "PM PRESIDENTE ALVES"
+  },
+  {
+    "segment": 1,
+    "code": "3422",
+    "dealership": "PM PORANGABA"
+  },
+  {
+    "segment": 1,
+    "code": "3108",
+    "dealership": "PM PARAIBUNA"
+  },
+  {
+    "segment": 1,
+    "code": "3795",
+    "dealership": "PM SANTA BRANCA"
+  },
+  {
+    "segment": 1,
+    "code": "0468",
+    "dealership": "PM BARRA DO TURVO"
+  },
+  {
+    "segment": 1,
+    "code": "4482",
+    "dealership": "PM TARABAI"
+  },
+  {
+    "segment": 1,
+    "code": "4659",
+    "dealership": "PM UNIAO PAULISTA"
+  },
+  {
+    "segment": 1,
+    "code": "1740",
+    "dealership": "PM GUAPIARA"
+  },
+  {
+    "segment": 1,
+    "code": "0640",
+    "dealership": "PM BOREBI"
+  },
+  {
+    "segment": 1,
+    "code": "3578",
+    "dealership": "PM REGENTE FEIJO"
+  },
+  {
+    "segment": 1,
+    "code": "4525",
+    "dealership": "PM TERRA ROXA"
+  },
+  {
+    "segment": 1,
+    "code": "0791",
+    "dealership": "PM CAIUA"
+  },
+  {
+    "segment": 1,
+    "code": "3637",
+    "dealership": "PM RIFAINA"
+  },
+  {
+    "segment": 1,
+    "code": "3733",
+    "dealership": "PM RUBINEIA"
+  },
+  {
+    "segment": 1,
+    "code": "0403",
+    "dealership": "PM BADY BASSIT"
+  },
+  {
+    "segment": 1,
+    "code": "0583",
+    "dealership": "PM BOITUVA"
+  },
+  {
+    "segment": 1,
+    "code": "1082",
+    "dealership": "PM CERQUEIRA CESAR"
+  },
+  {
+    "segment": 1,
+    "code": "3227",
+    "dealership": "PM PEDRINHAS PAULISTA"
+  },
+  {
+    "segment": 1,
+    "code": "1745",
+    "dealership": "PM GUARA"
+  },
+  {
+    "segment": 1,
+    "code": "1748",
+    "dealership": "PM GUARACI"
+  },
+  {
+    "segment": 1,
+    "code": "1069",
+    "dealership": "PM CEDRAL"
+  },
+  {
+    "segment": 1,
+    "code": "1381",
+    "dealership": "PM DOIS CORREGOS"
+  },
+  {
+    "segment": 1,
+    "code": "2110",
+    "dealership": "PM ITAPUI"
+  },
+  {
+    "segment": 1,
+    "code": "3064",
+    "dealership": "PM PALMARES PAULISTA"
+  },
+  {
+    "segment": 1,
+    "code": "3303",
+    "dealership": "PM PINDORAMA"
+  },
+  {
+    "segment": 1,
+    "code": "2749",
+    "dealership": "PM MONTE APRAZIVEL"
+  },
+  {
+    "segment": 1,
+    "code": "4693",
+    "dealership": "PM VALPARAISO"
+  },
+  {
+    "segment": 1,
+    "code": "4699",
+    "dealership": "PM VARGEM GRANDE DO SUL"
+  },
+  {
+    "segment": 1,
+    "code": "3224",
+    "dealership": "PM PEDREIRA"
+  },
+  {
+    "segment": 1,
+    "code": "2662",
+    "dealership": "PM MENDONCA"
+  },
+  {
+    "segment": 1,
+    "code": "2299",
+    "dealership": "PM JOSE BONIFACIO"
+  },
+  {
+    "segment": 1,
+    "code": "3446",
+    "dealership": "PM PORTO FERREIRA"
+  },
+  {
+    "segment": 1,
+    "code": "3070",
+    "dealership": "PM PALMEIRA D'OESTE"
+  },
+  {
+    "segment": 1,
+    "code": "3299",
+    "dealership": "PM PINDAMONHANGABA"
+  },
+  {
+    "segment": 1,
+    "code": "1515",
+    "dealership": "PM EUCLIDES DA CUNHA PTA"
+  },
+  {
+    "segment": 1,
+    "code": "4507",
+    "dealership": "PM TEODORO SAMPAIO"
+  },
+  {
+    "segment": 1,
+    "code": "3491",
+    "dealership": "PM PRESIDENTE EPITACIO"
+  },
+  {
+    "segment": 1,
+    "code": "0384",
+    "dealership": "PM AURIFLAMA"
+  },
+  {
+    "segment": 1,
+    "code": "0459",
+    "dealership": "PM BARRA DO CHAPEU"
+  },
+  {
+    "segment": 1,
+    "code": "0248",
+    "dealership": "PM APIAI"
+  },
+  {
+    "segment": 1,
+    "code": "4477",
+    "dealership": "PM TAQUARITUBA"
+  },
+  {
+    "segment": 1,
+    "code": "0911",
+    "dealership": "PM CANDIDO MOTA"
+  },
+  {
+    "segment": 1,
+    "code": "3418",
+    "dealership": "PM PONTES GESTAL"
+  },
+  {
+    "segment": 1,
+    "code": "0177",
+    "dealership": "PM AMERICO DE CAMPOS"
+  },
+  {
+    "segment": 1,
+    "code": "2094",
+    "dealership": "PM ITAPIRA"
+  },
+  {
+    "segment": 1,
+    "code": "4769",
+    "dealership": "PM VINHEDO"
+  },
+  {
+    "segment": 1,
+    "code": "4424",
+    "dealership": "PM TABOAO DA SERRA"
+  },
+  {
+    "segment": 1,
+    "code": "0357",
+    "dealership": "PM ARUJA"
+  },
+  {
+    "segment": 1,
+    "code": "1253",
+    "dealership": "PM COSMOPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "2720",
+    "dealership": "PM MOGI GUACU"
+  },
+  {
+    "segment": 1,
+    "code": "4352",
+    "dealership": "PM SERTAOZINHO"
+  },
+  {
+    "segment": 1,
+    "code": "4431",
+    "dealership": "PM TACIBA"
+  },
+  {
+    "segment": 1,
+    "code": "3282",
+    "dealership": "PM PIEDADE"
+  },
+  {
+    "segment": 1,
+    "code": "2184",
+    "dealership": "PM JACAREI"
+  },
+  {
+    "segment": 1,
+    "code": "2619",
+    "dealership": "PM MATAO"
+  },
+  {
+    "segment": 1,
+    "code": "2796",
+    "dealership": "PM MOTUCA"
+  },
+  {
+    "segment": 1,
+    "code": "4692",
+    "dealership": "PM VALINHOS"
+  },
+  {
+    "segment": 1,
+    "code": "3632",
+    "dealership": "PM RIBEIRAO PIRES"
+  },
+  {
+    "segment": 1,
+    "code": "4418",
+    "dealership": "PM SUZANO"
+  },
+  {
+    "segment": 1,
+    "code": "2524",
+    "dealership": "PM MANAUS"
+  },
+  {
+    "segment": 1,
+    "code": "2287",
+    "dealership": "PM JOAO PESSOA"
+  },
+  {
+    "segment": 1,
+    "code": "3273",
+    "dealership": "PM PETROPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "1651",
+    "dealership": "PM GARCA"
+  },
+  {
+    "segment": 1,
+    "code": "2748",
+    "dealership": "PM MONTE ALTO"
+  },
+  {
+    "segment": 1,
+    "code": "1178",
+    "dealership": "PM CONCHAL"
+  },
+  {
+    "segment": 1,
+    "code": "0218",
+    "dealership": "PM ANHEMBI"
+  },
+  {
+    "segment": 1,
+    "code": "1266",
+    "dealership": "PM CRAVINHOS"
+  },
+  {
+    "segment": 1,
+    "code": "0355",
+    "dealership": "PM ARTUR NOGUEIRA"
+  },
+  {
+    "segment": 1,
+    "code": "0127",
+    "dealership": "PM ALTINOPOLIS"
+  },
+  {
+    "segment": 1,
+    "code": "2863",
+    "dealership": "PM NITEROI"
+  },
+  {
+    "segment": 1,
+    "code": "4475",
+    "dealership": "PM TAQUARITINGA"
+  },
+  {
+    "segment": 1,
+    "code": "4261",
+    "dealership": "PM SAO VICENTE COD BARRAS"
+  },
+  {
+    "segment": 1,
+    "code": "1905",
+    "dealership": "PM ILHA SOLTEIRA"
+  },
+  {
+    "segment": 1,
+    "code": "4791",
+    "dealership": "PM VOLTA REDONDA"
+  },
+  {
+    "segment": 1,
+    "code": "4229",
+    "dealership": "PM SAO ROQUE"
+  },
+  {
+    "segment": 1,
+    "code": "4618",
+    "dealership": "PM TURIUBA"
+  },
+  {
+    "segment": 1,
+    "code": "5638",
+    "dealership": "PM LOURDES"
+  },
+  {
+    "segment": 1,
+    "code": "0705",
+    "dealership": "PM BURITAMA"
+  },
+  {
+    "segment": 1,
+    "code": "1780",
+    "dealership": "PM GUARUJA"
+  },
+  {
+    "segment": 1,
+    "code": "3883",
+    "dealership": "PM SANTA RITA PASSA QUATRO"
+  },
+  {
+    "segment": 1,
+    "code": "4489",
+    "dealership": "PM TATUI"
+  },
+  {
+    "segment": 1,
+    "code": "3524",
+    "dealership": "PM QUADRA"
+  },
+  {
+    "segment": 1,
+    "code": "0693",
+    "dealership": "PM BROTAS"
+  },
+  {
+    "segment": 1,
+    "code": "3014",
+    "dealership": "PM OSVALDO CRUZ"
+  },
+  {
+    "segment": 1,
+    "code": "2592",
+    "dealership": "PM MARILIA"
+  },
+  {
+    "segment": 1,
+    "code": "1426",
+    "dealership": "PM DRACENA"
+  },
+  {
+    "segment": 1,
+    "code": "1319",
+    "dealership": "PM CURITIBA"
+  },
+  {
+    "segment": 1,
+    "code": "2214",
+    "dealership": "PM JALES"
+  },
+  {
+    "segment": 1,
+    "code": "2719",
+    "dealership": "PM MOGI DAS CRUZES"
+  },
+  {
+    "segment": 1,
+    "code": "4642",
+    "dealership": "PM UCHOA"
+  },
+  {
+    "segment": 1,
+    "code": "0174",
+    "dealership": "PM AMERICANA"
+  },
+  {
+    "segment": 1,
+    "code": "4793",
+    "dealership": "PM VOTUPORANGA"
+  },
+  {
+    "segment": 1,
+    "code": "0363",
+    "dealership": "PM ASSIS"
+  },
+  {
+    "segment": 1,
+    "code": "4158",
+    "dealership": "PM SAO JOSE CAMPOS"
+  },
+  {
+    "segment": 1,
+    "code": "4638",
+    "dealership": "PM UBERABA"
+  },
+  {
+    "segment": 1,
+    "code": "0521",
+    "dealership": "PM BELO HORIZONTE"
+  },
+  {
+    "segment": 1,
+    "code": "4514",
+    "dealership": "PM TERESINA"
+  },
+  {
+    "segment": 1,
+    "code": "4003",
+    "dealership": "PM SAO CAETANO DO SUL"
+  },
+  {
+    "segment": 1,
+    "code": "3527",
+    "dealership": "PM QUATA"
+  },
+  {
+    "segment": 1,
+    "code": "3504",
+    "dealership": "PM PRESIDENTE PRUDENTE"
+  },
+  {
+    "segment": 1,
+    "code": "0375",
+    "dealership": "PM ATIBAIA"
+  },
+  {
+    "segment": 1,
+    "code": "4154",
+    "dealership": "PM SAO JOSE RIO PRETO"
+  },
+  {
+    "segment": 1,
+    "code": "0644",
+    "dealership": "PM BOTUCATU"
+  },
+  {
+    "segment": 1,
+    "code": "2319",
+    "dealership": "PM JUNDIAI"
+  },
+  {
+    "segment": 1,
+    "code": "3327",
+    "dealership": "PM PIRACICABA"
+  },
+  {
+    "segment": 1,
+    "code": "0204",
+    "dealership": "PM ANDRADINA"
+  },
+  {
+    "segment": 1,
+    "code": "0306",
+    "dealership": "PM ARARAQUARA"
+  },
+  {
+    "segment": 1,
+    "code": "4856",
+    "dealership": "PM GAVIAO PEIXOTO"
+  },
+  {
+    "segment": 1,
+    "code": "2160",
+    "dealership": "PM ITUVERAVA"
+  },
+  {
+    "segment": 1,
+    "code": "1495",
+    "dealership": "PM ESPIRITO SANTO DO PINHAL"
+  },
+  {
+    "segment": 1,
+    "code": "3508",
+    "dealership": "PM PRESIDENTE VENCESLAU"
+  },
+  {
+    "segment": 1,
+    "code": "2420",
+    "dealership": "PM LENCOIS PAULISTA"
+  },
+  {
+    "segment": 1,
+    "code": "4491",
+    "dealership": "PM TAUBATE"
+  },
+  {
+    "segment": 1,
+    "code": "3659",
+    "dealership": "PM RIO DE JANEIRO"
+  },
+  {
+    "segment": 1,
+    "code": "0392",
+    "dealership": "PM AVANHANDAVA"
+  },
+  {
+    "segment": 1,
+    "code": "3995",
+    "dealership": "PM SAO BERNARDO DO CAMPO"
+  },
+  {
+    "segment": 1,
+    "code": "0552",
+    "dealership": "PM BIRIGUI"
+  },
+  {
+    "segment": 1,
+    "code": "4404",
+    "dealership": "PM SOROCABA"
+  },
+  {
+    "segment": 1,
+    "code": "2148",
+    "dealership": "PM ITU"
+  },
+  {
+    "segment": 1,
+    "code": "4639",
+    "dealership": "PM UBERLANDIA"
+  },
+  {
+    "segment": 1,
+    "code": "3940",
+    "dealership": "PM SANTO ANASTACIO"
+  },
+  {
+    "segment": 1,
+    "code": "2431",
+    "dealership": "PM LIMEIRA"
+  },
+  {
+    "segment": 1,
+    "code": "2707",
+    "dealership": "PM MIRASSOL"
+  },
+  {
+    "segment": 1,
+    "code": "3020",
+    "dealership": "PM OURINHOS"
+  },
+  {
+    "segment": 1,
+    "code": "1431",
+    "dealership": "PM DUMONT"
+  },
+  {
+    "segment": 1,
+    "code": "3633",
+    "dealership": "PM RIBEIRAO PRETO"
+  },
+  {
+    "segment": 1,
+    "code": "1147",
+    "dealership": "PM COLOMBIA"
+  },
+  {
+    "segment": 1,
+    "code": "0482",
+    "dealership": "PM BARRETOS"
+  },
+  {
+    "segment": 1,
+    "code": "2177",
+    "dealership": "PM JABOTICABAL"
+  },
+  {
+    "segment": 1,
+    "code": "4006",
+    "dealership": "PM SAO CARLOS"
+  },
+  {
+    "segment": 1,
+    "code": "1862",
+    "dealership": "PM IBITINGA"
+  },
+  {
+    "segment": 1,
+    "code": "6217",
+    "dealership": "PM BATATAIS"
+  },
+  {
+    "segment": 1,
+    "code": "4105",
+    "dealership": "PM SAO JOAQUIM DA BARRA"
+  },
+  {
+    "segment": 1,
+    "code": "2256",
+    "dealership": "PM JAU"
+  },
+  {
+    "segment": 1,
+    "code": "3084",
+    "dealership": "PM PALMITAL"
+  },
+  {
+    "segment": 1,
+    "code": "1958",
+    "dealership": "SEAMA IPERO"
+  },
+  {
+    "segment": 1,
+    "code": "3767",
+    "dealership": "PM SALTO IMPOSTOS"
+  },
+  {
+    "segment": 2,
+    "code": "0107",
+    "dealership": "SANEATINS TOCANTINS"
+  },
+  {
+    "segment": 2,
+    "code": "0018",
+    "dealership": "COMPESA PERNAMBUCO"
+  },
+  {
+    "segment": 2,
+    "code": "0710",
+    "dealership": "SAE CATALAO"
+  },
+  {
+    "segment": 2,
+    "code": "0010",
+    "dealership": "CAGEPA PARAIBA"
+  },
+  {
+    "segment": 2,
+    "code": "0002",
+    "dealership": "CAEMA MARANHAO"
+  },
+  {
+    "segment": 2,
+    "code": "0022",
+    "dealership": "COSANPA PARA"
+  },
+  {
+    "segment": 2,
+    "code": "0846",
+    "dealership": "PM PORTO REAL AGUA"
+  },
+  {
+    "segment": 2,
+    "code": "0012",
+    "dealership": "CASAL ALAGOAS"
+  },
+  {
+    "segment": 2,
+    "code": "0041",
+    "dealership": "DESO SERGIPE"
+  },
+  {
+    "segment": 2,
+    "code": "2499",
+    "dealership": "SAAE SETE LAGOAS"
+  },
+  {
+    "segment": 2,
+    "code": "0044",
+    "dealership": "DMAE UBERLANDIA"
+  },
+  {
+    "segment": 2,
+    "code": "0370",
+    "dealership": "PROLAGOS CABO FRIO"
+  },
+  {
+    "segment": 2,
+    "code": "0446",
+    "dealership": "CAENF NOVA FRIBURGO"
+  },
+  {
+    "segment": 2,
+    "code": "0059",
+    "dealership": "FOZ DE CACHOEIRO DE ITAPEMIRIM"
+  },
+  {
+    "segment": 2,
+    "code": "0389",
+    "dealership": "SAAE CAETE"
+  },
+  {
+    "segment": 2,
+    "code": "0381",
+    "dealership": "DAE PARATY"
+  },
+  {
+    "segment": 2,
+    "code": "0647",
+    "dealership": "PM CERQUEIRA CESAR-AGUA"
+  },
+  {
+    "segment": 2,
+    "code": "1318",
+    "dealership": "FOZ DE PORTO FERREIRA"
+  },
+  {
+    "segment": 2,
+    "code": "1329",
+    "dealership": "CAB CUIABA"
+  },
+  {
+    "segment": 2,
+    "code": "0156",
+    "dealership": "SAAE BARRA MANSA"
+  },
+  {
+    "segment": 2,
+    "code": "0322",
+    "dealership": "AGUAS DE JUTURNAIBA"
+  },
+  {
+    "segment": 2,
+    "code": "0110",
+    "dealership": "SANESUL MATO GROSSO SUL"
+  },
+  {
+    "segment": 2,
+    "code": "0009",
+    "dealership": "CAGECE FORTALEZA"
+  },
+  {
+    "segment": 2,
+    "code": "0361",
+    "dealership": "SAAE ITABIRITO"
+  },
+  {
+    "segment": 2,
+    "code": "0046",
+    "dealership": "EMASA ITABUNA"
+  },
+  {
+    "segment": 2,
+    "code": "0074",
+    "dealership": "SAAE ITUIUTUBA"
+  },
+  {
+    "segment": 2,
+    "code": "0152",
+    "dealership": "SAMAE SAO FRANCISCO DO SUL"
+  },
+  {
+    "segment": 2,
+    "code": "0006",
+    "dealership": "CAERN RIO GRANDE DO NORTE"
+  },
+  {
+    "segment": 2,
+    "code": "0366",
+    "dealership": "SAAE OLIVEIRA"
+  },
+  {
+    "segment": 2,
+    "code": "1310",
+    "dealership": "FOZ DE URUGUAIANA SA"
+  },
+  {
+    "segment": 2,
+    "code": "1293",
+    "dealership": "CEDAE"
+  },
+  {
+    "segment": 2,
+    "code": "1292",
+    "dealership": "CEDAE"
+  },
+  {
+    "segment": 2,
+    "code": "0008",
+    "dealership": "CAESB BRASILIA"
+  },
+  {
+    "segment": 2,
+    "code": "0019",
+    "dealership": "COPASA MINAS GERAIS"
+  },
+  {
+    "segment": 2,
+    "code": "0047",
+    "dealership": "EMBASA BAHIA"
+  },
+  {
+    "segment": 2,
+    "code": "0534",
+    "dealership": "AGUAS GUARIROBA"
+  },
+  {
+    "segment": 2,
+    "code": "0341",
+    "dealership": "SANEAR RONDONOPOLIS"
+  },
+  {
+    "segment": 2,
+    "code": "0391",
+    "dealership": "AGUAS DO PARAIBA"
+  },
+  {
+    "segment": 2,
+    "code": "1113",
+    "dealership": "AGUAS DAS AGULHAS NEGRAS"
+  },
+  {
+    "segment": 2,
+    "code": "0320",
+    "dealership": "AGUAS DO IMPERADOR"
+  },
+  {
+    "segment": 2,
+    "code": "1217",
+    "dealership": "AGUAS DE ARACOIABA"
+  },
+  {
+    "segment": 2,
+    "code": "1335",
+    "dealership": "AGUAS DE VOTORANTIM"
+  },
+  {
+    "segment": 2,
+    "code": "1333",
+    "dealership": "F AB ZONA OESTE"
+  },
+  {
+    "segment": 2,
+    "code": "0106",
+    "dealership": "SANEAGO GOIAS"
+  },
+  {
+    "segment": 2,
+    "code": "0043",
+    "dealership": "DMAE PORTO ALEGRE"
+  },
+  {
+    "segment": 2,
+    "code": "0119",
+    "dealership": "SAMAE BRUSQUE"
+  },
+  {
+    "segment": 2,
+    "code": "0120",
+    "dealership": "SAMAE SAO BENTO"
+  },
+  {
+    "segment": 2,
+    "code": "0798",
+    "dealership": "CORSAN NOVA"
+  },
+  {
+    "segment": 2,
+    "code": "0843",
+    "dealership": "SEMASA LAGES"
+  },
+  {
+    "segment": 2,
+    "code": "0845",
+    "dealership": "SEMASA ITAJAI"
+  },
+  {
+    "segment": 2,
+    "code": "1223",
+    "dealership": "PEDRA BRANCA LTDA"
+  },
+  {
+    "segment": 2,
+    "code": "0014",
+    "dealership": "CEDAE RIO DE JANEIRO"
+  },
+  {
+    "segment": 2,
+    "code": "0112",
+    "dealership": "SEMAE SAO LEOPOLDO"
+  },
+  {
+    "segment": 2,
+    "code": "0007",
+    "dealership": "CAESA AMAPA"
+  },
+  {
+    "segment": 2,
+    "code": "0113",
+    "dealership": "SEMASA SANTO ANDRE"
+  },
+  {
+    "segment": 2,
+    "code": "0069",
+    "dealership": "SAAE GUARULHOS"
+  },
+  {
+    "segment": 2,
+    "code": "1207",
+    "dealership": "CESSAO EMBASA FOZ DE JAGUARIBE SA"
+  },
+  {
+    "segment": 2,
+    "code": "1100",
+    "dealership": "CORSAN - PAC - RS"
+  },
+  {
+    "segment": 2,
+    "code": "1128",
+    "dealership": "SAE NOVO HAMBURGO"
+  },
+  {
+    "segment": 2,
+    "code": "0013",
+    "dealership": "CASAN SANTA CATARINA"
+  },
+  {
+    "segment": 2,
+    "code": "0101",
+    "dealership": "SAMAE JARAGUA DO SUL"
+  },
+  {
+    "segment": 2,
+    "code": "0114",
+    "dealership": "SIMAE JOACABA"
+  },
+  {
+    "segment": 2,
+    "code": "0961",
+    "dealership": "AGUAS DE JOINVILLE"
+  },
+  {
+    "segment": 2,
+    "code": "1295",
+    "dealership": "AGUAS DE PALHOCA"
+  },
+  {
+    "segment": 2,
+    "code": "0918",
+    "dealership": "SAAE SAO PEDRO"
+  },
+  {
+    "segment": 2,
+    "code": "0698",
+    "dealership": "PM ITIRAPINA AGUA"
+  },
+  {
+    "segment": 2,
+    "code": "0885",
+    "dealership": "SAE MURUTINGA DO SUL"
+  },
+  {
+    "segment": 2,
+    "code": "0319",
+    "dealership": "CODEN NOVA ODESSA"
+  },
+  {
+    "segment": 2,
+    "code": "0771",
+    "dealership": "SAAE APARECIDA"
+  },
+  {
+    "segment": 2,
+    "code": "0313",
+    "dealership": "DAE AMERICO BRASILIENSE"
+  },
+  {
+    "segment": 2,
+    "code": "0928",
+    "dealership": "SOUZA IND ADM DE AGUA"
+  },
+  {
+    "segment": 2,
+    "code": "0050",
+    "dealership": "SAAE AGUAS DE LINDOIA"
+  },
+  {
+    "segment": 2,
+    "code": "0005",
+    "dealership": "CAERD RONDONIA"
+  },
+  {
+    "segment": 2,
+    "code": "0157",
+    "dealership": "SAEMA VINHEDO"
+  },
+  {
+    "segment": 2,
+    "code": "0626",
+    "dealership": "DAE COSMOPOLIS"
+  },
+  {
+    "segment": 2,
+    "code": "0424",
+    "dealership": "DAE GUARARAPES"
+  },
+  {
+    "segment": 2,
+    "code": "0730",
+    "dealership": "SAAE SANTA ISABEL"
+  },
+  {
+    "segment": 2,
+    "code": "1263",
+    "dealership": "FOZ DE SANTA GERTRUDES"
+  },
+  {
+    "segment": 2,
+    "code": "0720",
+    "dealership": "SAE TAIACU"
+  },
+  {
+    "segment": 2,
+    "code": "0836",
+    "dealership": "PM PATROCINIO PAULISTA AGUA"
+  },
+  {
+    "segment": 2,
+    "code": "0619",
+    "dealership": "PM SANTA BRANCA AGUA"
+  },
+  {
+    "segment": 2,
+    "code": "0966",
+    "dealership": "SAAE CAIUA"
+  },
+  {
+    "segment": 2,
+    "code": "0477",
+    "dealership": "AGUAS DO AMAZONAS"
+  },
+  {
+    "segment": 2,
+    "code": "0334",
+    "dealership": "SAAE RIO DAS PEDRAS"
+  },
+  {
+    "segment": 2,
+    "code": "0033",
+    "dealership": "DAE STA BARBARA DO OESTE"
+  },
+  {
+    "segment": 2,
+    "code": "0919",
+    "dealership": "SAAE CRAVINHOS"
+  },
+  {
+    "segment": 2,
+    "code": "0812",
+    "dealership": "DAE CEDRAL"
+  },
+  {
+    "segment": 2,
+    "code": "1064",
+    "dealership": "DAE JARDINOPOLIS"
+  },
+  {
+    "segment": 2,
+    "code": "0121",
+    "dealership": "SEMAE PIRACICABA"
+  },
+  {
+    "segment": 2,
+    "code": "0443",
+    "dealership": "SAE VARGEM GRANDE DO SUL"
+  },
+  {
+    "segment": 2,
+    "code": "1316",
+    "dealership": "SAAE PEDREIRA"
+  },
+  {
+    "segment": 2,
+    "code": "1017",
+    "dealership": "SAAE MENDONCA"
+  },
+  {
+    "segment": 2,
+    "code": "0316",
+    "dealership": "SAE PORTO FERREIRA"
+  },
+  {
+    "segment": 2,
+    "code": "0061",
+    "dealership": "SAAE CANDIDO MOTA"
+  },
+  {
+    "segment": 2,
+    "code": "1304",
+    "dealership": "SAMAE FOZ DE BLUMENAU"
+  },
+  {
+    "segment": 2,
+    "code": "0118",
+    "dealership": "SAMAE BLUMENAU"
+  },
+  {
+    "segment": 2,
+    "code": "0062",
+    "dealership": "SAAE CAPIVARI"
+  },
+  {
+    "segment": 2,
+    "code": "0285",
+    "dealership": "SAAE CERQUILHO"
+  },
+  {
+    "segment": 2,
+    "code": "0097",
+    "dealership": "SABESP SAO PAULO"
+  },
+  {
+    "segment": 2,
+    "code": "0071",
+    "dealership": "SAAE INDAIATUBA"
+  },
+  {
+    "segment": 2,
+    "code": "0661",
+    "dealership": "SAAE BROTAS"
+  },
+  {
+    "segment": 2,
+    "code": "0036",
+    "dealership": "DAE SUMARE"
+  },
+  {
+    "segment": 2,
+    "code": "0102",
+    "dealership": "SAMAE MOGI GUACU"
+  },
+  {
+    "segment": 2,
+    "code": "0699",
+    "dealership": "DAE GUAIRA"
+  },
+  {
+    "segment": 2,
+    "code": "0739",
+    "dealership": "SAEMA SERTAOZINHO"
+  },
+  {
+    "segment": 2,
+    "code": "0428",
+    "dealership": "DAE SERTAOZINHO"
+  },
+  {
+    "segment": 2,
+    "code": "0337",
+    "dealership": "SAMAE CAXIAS DO SUL"
+  },
+  {
+    "segment": 2,
+    "code": "0076",
+    "dealership": "SAAE JACAREI"
+  },
+  {
+    "segment": 2,
+    "code": "0356",
+    "dealership": "CAEMA MATAO"
+  },
+  {
+    "segment": 2,
+    "code": "0037",
+    "dealership": "DAE VALINHOS"
+  },
+  {
+    "segment": 2,
+    "code": "0127",
+    "dealership": "SAMA MAUA"
+  },
+  {
+    "segment": 2,
+    "code": "0031",
+    "dealership": "DAE JUNDIAI"
+  },
+  {
+    "segment": 2,
+    "code": "0109",
+    "dealership": "SANEPAR PARANA"
+  },
+  {
+    "segment": 2,
+    "code": "0111",
+    "dealership": "SEMAE MOGI DAS CRUZES"
+  },
+  {
+    "segment": 2,
+    "code": "0027",
+    "dealership": "DAE AMERICANA"
+  },
+  {
+    "segment": 2,
+    "code": "0116",
+    "dealership": "SAE VOTUPORANGA"
+  },
+  {
+    "segment": 2,
+    "code": "0017",
+    "dealership": "CODAU UBERABA"
+  },
+  {
+    "segment": 2,
+    "code": "0001",
+    "dealership": "AGESPISA AGUA E ESGOTO DO PIAUI"
+  },
+  {
+    "segment": 2,
+    "code": "0016",
+    "dealership": "CESAN ESPIRITO SANTO"
+  },
+  {
+    "segment": 2,
+    "code": "0035",
+    "dealership": "DAE SAO CAETANO DO SUL"
+  },
+  {
+    "segment": 2,
+    "code": "0883",
+    "dealership": "SAAE CRUZEIRO"
+  },
+  {
+    "segment": 2,
+    "code": "0479",
+    "dealership": "AGUAS DE NITEROI"
+  },
+  {
+    "segment": 2,
+    "code": "0092",
+    "dealership": "SAAE TAQUARITINGA"
+  },
+  {
+    "segment": 2,
+    "code": "0746",
+    "dealership": "SAAE PEREIRA BARRETO"
+  },
+  {
+    "segment": 2,
+    "code": "0388",
+    "dealership": "DAE ILHA SOLTEIRA"
+  },
+  {
+    "segment": 2,
+    "code": "0095",
+    "dealership": "SAAE VOLTA REDONDA"
+  },
+  {
+    "segment": 2,
+    "code": "0122",
+    "dealership": "SANED DIADEMA"
+  },
+  {
+    "segment": 2,
+    "code": "0024",
+    "dealership": "DAAE ARARAQUARA"
+  },
+  {
+    "segment": 2,
+    "code": "0500",
+    "dealership": "PM GAVIAO PEIXOTO AGUA"
+  },
+  {
+    "segment": 2,
+    "code": "0070",
+    "dealership": "SAAE GUARATINGUETA"
+  },
+  {
+    "segment": 2,
+    "code": "0026",
+    "dealership": "DAAE RIO CLARO"
+  },
+  {
+    "segment": 2,
+    "code": "0091",
+    "dealership": "SAAE SOROCABA"
+  },
+  {
+    "segment": 2,
+    "code": "0282",
+    "dealership": "SAAE VOTORANTIM"
+  },
+  {
+    "segment": 2,
+    "code": "1105",
+    "dealership": "AGUAS DE ITU"
+  },
+  {
+    "segment": 2,
+    "code": "0292",
+    "dealership": "SAAE BEBEDOURO"
+  },
+  {
+    "segment": 2,
+    "code": "0099",
+    "dealership": "SAE ARARAS"
+  },
+  {
+    "segment": 2,
+    "code": "0508",
+    "dealership": "EMDAEP DRACENA"
+  },
+  {
+    "segment": 2,
+    "code": "0029",
+    "dealership": "DAE BAURU"
+  },
+  {
+    "segment": 2,
+    "code": "1345",
+    "dealership": "SAMAR ARACATUBA"
+  },
+  {
+    "segment": 2,
+    "code": "0105",
+    "dealership": "SANASA CAMPINAS"
+  },
+  {
+    "segment": 2,
+    "code": "0032",
+    "dealership": "DAE MARILIA"
+  },
+  {
+    "segment": 2,
+    "code": "0078",
+    "dealership": "SAAE LIMEIRA"
+  },
+  {
+    "segment": 2,
+    "code": "0124",
+    "dealership": "FOZ DE LIMEIRA"
+  },
+  {
+    "segment": 2,
+    "code": "0040",
+    "dealership": "DAERP RIBEIRAO PRETO"
+  },
+  {
+    "segment": 2,
+    "code": "0039",
+    "dealership": "DAE OLIMPIA"
+  },
+  {
+    "segment": 2,
+    "code": "0056",
+    "dealership": "SAAE BARRETOS"
+  },
+  {
+    "segment": 2,
+    "code": "0695",
+    "dealership": "SAAE PIRAJUI"
+  },
+  {
+    "segment": 2,
+    "code": "0075",
+    "dealership": "SAAE JABOTICABAL"
+  },
+  {
+    "segment": 2,
+    "code": "0089",
+    "dealership": "SAAE SAO CARLOS"
+  },
+  {
+    "segment": 2,
+    "code": "0315",
+    "dealership": "SAAE IBITINGA"
+  },
+  {
+    "segment": 2,
+    "code": "0525",
+    "dealership": "DAE BATATAIS"
+  },
+  {
+    "segment": 2,
+    "code": "0100",
+    "dealership": "SAE JAU"
+  },
+  {
+    "segment": 2,
+    "code": "0083",
+    "dealership": "SAAE PALMITAL"
+  },
+  {
+    "segment": 2,
+    "code": "0053",
+    "dealership": "SAAE ATIBAIA"
+  },
+  {
+    "segment": 2,
+    "code": "1349",
+    "dealership": "FOZ DE MACAE"
+  },
+  {
+    "segment": 2,
+    "code": "1379",
+    "dealership": "FOZ GOIAS SANEAMENTO"
+  },
+  {
+    "segment": 2,
+    "code": "1387",
+    "dealership": "AGUAS DE MATAO"
+  },
+  {
+    "segment": 2,
+    "code": "1393",
+    "dealership": "AGUAS DE SAO FRANCISCO"
+  },
+  {
+    "segment": 2,
+    "code": "1402",
+    "dealership": "AGUAS DE PARATY"
+  },
+  {
+    "segment": 2,
+    "code": "0042",
+    "dealership": "DMAE POCOS DE CALDAS"
+  },
+  {
+    "segment": 2,
+    "code": "1011",
+    "dealership": "PORTO ADM DE AGUAS EM COND"
+  },
+  {
+    "segment": 2,
+    "code": "0704",
+    "dealership": "DAAE PENAPOLIS"
+  },
+  {
+    "segment": 2,
+    "code": "3847",
+    "dealership": "ODB AMB MAUA"
+  },
+  {
+    "segment": 2,
+    "code": "1429",
+    "dealership": "ODEBRECHT AMBIENTAL MARANHAO SA"
+  },
+  {
+    "segment": 2,
+    "code": "1423",
+    "dealership": "AGUAS DE JAHU"
+  },
+  {
+    "segment": 3,
+    "code": "0011",
+    "dealership": "CELPE PERNAMBUCO"
+  },
+  {
+    "segment": 3,
+    "code": "0029",
+    "dealership": "COCEL CIA CAMPOLARGUENSE DE ENERGIA"
+  },
+  {
+    "segment": 3,
+    "code": "0086",
+    "dealership": "AES SUL ENERGIA"
+  },
+  {
+    "segment": 3,
+    "code": "0020",
+    "dealership": "CERON RONDONIA"
+  },
+  {
+    "segment": 3,
+    "code": "0045",
+    "dealership": "ELETROACRE"
+  },
+  {
+    "segment": 3,
+    "code": "0013",
+    "dealership": "CEMAR MARANHAO"
+  },
+  {
+    "segment": 3,
+    "code": "0075",
+    "dealership": "BOA VISTA ENERGIA RORAIMA"
+  },
+  {
+    "segment": 3,
+    "code": "0178",
+    "dealership": "LIQUIGAS DISTRIBUIDORA"
+  },
+  {
+    "segment": 3,
+    "code": "0159",
+    "dealership": "CEMAT MATOGROSSO FIDIC"
+  },
+  {
+    "segment": 3,
+    "code": "0003",
+    "dealership": "CEAL ALAGOAS"
+  },
+  {
+    "segment": 3,
+    "code": "0038",
+    "dealership": "COSERN RIO GRANDE DO NORTE"
+  },
+  {
+    "segment": 3,
+    "code": "0182",
+    "dealership": "BAHIANA DISTRIBUIDORA DE GAS LTDA"
+  },
+  {
+    "segment": 3,
+    "code": "0014",
+    "dealership": "CEMAT MATO GROSSO"
+  },
+  {
+    "segment": 3,
+    "code": "0100",
+    "dealership": "CEG RIO"
+  },
+  {
+    "segment": 3,
+    "code": "0185",
+    "dealership": "COOPERATIVA DE ELETRIFICACAO DE IBIU"
+  },
+  {
+    "segment": 3,
+    "code": "0007",
+    "dealership": "ENERGISA BORBOREMA CELB"
+  },
+  {
+    "segment": 3,
+    "code": "0149",
+    "dealership": "ENERGISA PARAIBA SAELPA FIDC"
+  },
+  {
+    "segment": 3,
+    "code": "0054",
+    "dealership": "ENERGISA PARAIBA SAELPA"
+  },
+  {
+    "segment": 3,
+    "code": "0146",
+    "dealership": "ENERGISA N FRIBURGO FIDC"
+  },
+  {
+    "segment": 3,
+    "code": "0024",
+    "dealership": "ENERGISA M GERAIS"
+  },
+  {
+    "segment": 3,
+    "code": "0145",
+    "dealership": "ENERGISA M GERAIS FIDC"
+  },
+  {
+    "segment": 3,
+    "code": "0049",
+    "dealership": "ENERGISA SERGIPE"
+  },
+  {
+    "segment": 3,
+    "code": "0148",
+    "dealership": "ENERGISA SERGIPE FIDC"
+  },
+  {
+    "segment": 3,
+    "code": "0031",
+    "dealership": "COELCE CEARA"
+  },
+  {
+    "segment": 3,
+    "code": "0050",
+    "dealership": "ENERSUL"
+  },
+  {
+    "segment": 3,
+    "code": "0030",
+    "dealership": "COELBA BAHIA"
+  },
+  {
+    "segment": 3,
+    "code": "0005",
+    "dealership": "CEB BRASILIA"
+  },
+  {
+    "segment": 3,
+    "code": "0006",
+    "dealership": "CEEE RIO GRANDE DO SUL"
+  },
+  {
+    "segment": 3,
+    "code": "0046",
+    "dealership": "ELETROCAR"
+  },
+  {
+    "segment": 3,
+    "code": "0066",
+    "dealership": "HIDROEL PANAMBI"
+  },
+  {
+    "segment": 3,
+    "code": "0067",
+    "dealership": "DEMEI - IJUI"
+  },
+  {
+    "segment": 3,
+    "code": "0068",
+    "dealership": "IGUACU ENERGIA"
+  },
+  {
+    "segment": 3,
+    "code": "0089",
+    "dealership": "RIO GRANDE ENERGIA"
+  },
+  {
+    "segment": 3,
+    "code": "0019",
+    "dealership": "AMPLA ENERGIA E SERVICOS"
+  },
+  {
+    "segment": 3,
+    "code": "0147",
+    "dealership": "ENERGISA BORBOREMA CELB FIDC"
+  },
+  {
+    "segment": 3,
+    "code": "0018",
+    "dealership": "CERIPA COOP EL R ITAI PAR AVARE"
+  },
+  {
+    "segment": 3,
+    "code": "0002",
+    "dealership": "CEA AMAPA"
+  },
+  {
+    "segment": 3,
+    "code": "0137",
+    "dealership": "ULTRAGAZ SA"
+  },
+  {
+    "segment": 3,
+    "code": "0025",
+    "dealership": "CIA FORCA E LUZ DO OESTE"
+  },
+  {
+    "segment": 3,
+    "code": "0056",
+    "dealership": "CEG"
+  },
+  {
+    "segment": 3,
+    "code": "0040",
+    "dealership": "CPFL CIA PAULISTA DE FORCA LUZ"
+  },
+  {
+    "segment": 3,
+    "code": "0110",
+    "dealership": "CIA PIRATININGA DE FORCA E LUZ"
+  },
+  {
+    "segment": 3,
+    "code": "0095",
+    "dealership": "COOPERATIVA MISTA PIONEIRA"
+  },
+  {
+    "segment": 3,
+    "code": "0125",
+    "dealership": "COOP ELETR RURAL S J RIO PRETO"
+  },
+  {
+    "segment": 3,
+    "code": "0109",
+    "dealership": "COOPERATIVA ELETR RURAL ITAPECE"
+  },
+  {
+    "segment": 3,
+    "code": "0080",
+    "dealership": "COOP ELET RURAL MEDIA SOROC CE"
+  },
+  {
+    "segment": 3,
+    "code": "0055",
+    "dealership": "CPFL SUL PAULISTA"
+  },
+  {
+    "segment": 3,
+    "code": "0039",
+    "dealership": "CPFL LESTE PAULISTA"
+  },
+  {
+    "segment": 3,
+    "code": "0026",
+    "dealership": "CPFL MOCOCA"
+  },
+  {
+    "segment": 3,
+    "code": "0052",
+    "dealership": "CPFL JAGUARI"
+  },
+  {
+    "segment": 3,
+    "code": "0047",
+    "dealership": "MANAUS ENERGIA SA"
+  },
+  {
+    "segment": 3,
+    "code": "0119",
+    "dealership": "COOPERATIVA DE ENERGIZACA"
+  },
+  {
+    "segment": 3,
+    "code": "0048",
+    "dealership": "AES ELETROPAULO"
+  },
+  {
+    "segment": 3,
+    "code": "0073",
+    "dealership": "BANDEIRANTE ENERGIA"
+  },
+  {
+    "segment": 3,
+    "code": "0028",
+    "dealership": "CIA NACIONAL DE ENERGIA ELETRICA"
+  },
+  {
+    "segment": 3,
+    "code": "0043",
+    "dealership": "EMP DE ELET VALE DO PARANAPANEMA"
+  },
+  {
+    "segment": 3,
+    "code": "0042",
+    "dealership": "EMP ELETRICA BRAGANTINA S/A"
+  },
+  {
+    "segment": 3,
+    "code": "0001",
+    "dealership": "CAIUA SERVICO DE ELETRICIDADE SA"
+  },
+  {
+    "segment": 3,
+    "code": "0155",
+    "dealership": "CAIUA DISTRIBUICAO ENERGIA"
+  },
+  {
+    "segment": 3,
+    "code": "0010",
+    "dealership": "CELPA PARA"
+  },
+  {
+    "segment": 3,
+    "code": "0160",
+    "dealership": "CELPA PARA FIDC"
+  },
+  {
+    "segment": 3,
+    "code": "0022",
+    "dealership": "ELEKTRO ELETRICIDADE E SERV SA"
+  },
+  {
+    "segment": 3,
+    "code": "0057",
+    "dealership": "COMGAS CIA DE GAS DE SP"
+  },
+  {
+    "segment": 3,
+    "code": "0162",
+    "dealership": "CELESC SANTA CATARINA"
+  },
+  {
+    "segment": 3,
+    "code": "0027",
+    "dealership": "CPFL SANTA CRUZ"
+  },
+  {
+    "segment": 3,
+    "code": "0111",
+    "dealership": "COPEL DISTRIBUICAO"
+  },
+  {
+    "segment": 3,
+    "code": "0072",
+    "dealership": "CERMC COOP EL RURAL MOGI CRUZES"
+  },
+  {
+    "segment": 3,
+    "code": "0138",
+    "dealership": "CEMIG DISTRIBUICAO"
+  },
+  {
+    "segment": 3,
+    "code": "0061",
+    "dealership": "COOP ELETR RURAL MOGI MIRIM"
+  },
+  {
+    "segment": 3,
+    "code": "0053",
+    "dealership": "LIGHT SERV ELETRICIDADE"
+  },
+  {
+    "segment": 3,
+    "code": "0116",
+    "dealership": "GAS NATURAL SAO PAULO SUL SA"
+  },
+  {
+    "segment": 3,
+    "code": "0009",
+    "dealership": "CELG GOIAS"
+  },
+  {
+    "segment": 3,
+    "code": "0051",
+    "dealership": "ESCELSA ESPIRITO SANTO"
+  },
+  {
+    "segment": 3,
+    "code": "0123",
+    "dealership": "GAS BRASILIANO DISTRIBUIDORA SA"
+  },
+  {
+    "segment": 3,
+    "code": "0154",
+    "dealership": "CEMAT FIDC"
+  },
+  {
+    "segment": 3,
+    "code": "0199",
+    "dealership": "ENERSUL FIDC"
+  },
+  {
+    "segment": 4,
+    "code": "0061",
+    "dealership": "AMAZONIA CELULAR"
+  },
+  {
+    "segment": 4,
+    "code": "0392",
+    "dealership": "TIM CELULAR S A"
+  },
+  {
+    "segment": 4,
+    "code": "0166",
+    "dealership": "PEGASUS TELECOM"
+  },
+  {
+    "segment": 4,
+    "code": "0212",
+    "dealership": "TELEMAR - 31 GLOBAL"
+  },
+  {
+    "segment": 4,
+    "code": "0110",
+    "dealership": "TIM CELULAR - CENTRO SUL"
+  },
+  {
+    "segment": 4,
+    "code": "0111",
+    "dealership": "TIM CELULAR - RIO/ES E NORTE"
+  },
+  {
+    "segment": 4,
+    "code": "0050",
+    "dealership": "AMAZONIA CELULAR - RR"
+  },
+  {
+    "segment": 4,
+    "code": "0051",
+    "dealership": "AMAZONIA CELULAR - AM"
+  },
+  {
+    "segment": 4,
+    "code": "0125",
+    "dealership": "EBT LIVRE SP CORP"
+  },
+  {
+    "segment": 4,
+    "code": "0126",
+    "dealership": "EBT LIVRE SA CORP"
+  },
+  {
+    "segment": 4,
+    "code": "0279",
+    "dealership": "NET CURITIBA - MMDS - PR"
+  },
+  {
+    "segment": 4,
+    "code": "0156",
+    "dealership": "BRT CELULAR 14  RO"
+  },
+  {
+    "segment": 4,
+    "code": "0026",
+    "dealership": "BRASIL TELECOM RO"
+  },
+  {
+    "segment": 4,
+    "code": "0011",
+    "dealership": "BRASIL TELECOM AC"
+  },
+  {
+    "segment": 4,
+    "code": "0149",
+    "dealership": "BRT CELULAR 14 AC"
+  },
+  {
+    "segment": 4,
+    "code": "0033",
+    "dealership": "CLARO CO 1"
+  },
+  {
+    "segment": 4,
+    "code": "0285",
+    "dealership": "TREMNET-MG"
+  },
+  {
+    "segment": 4,
+    "code": "0054",
+    "dealership": "AMAZONIA CELULAR - AP"
+  },
+  {
+    "segment": 4,
+    "code": "0057",
+    "dealership": "AMAZONIA CELULAR - PA"
+  },
+  {
+    "segment": 4,
+    "code": "0278",
+    "dealership": "NET SAO LEOPOLDO - RS"
+  },
+  {
+    "segment": 4,
+    "code": "0155",
+    "dealership": "BRASIL TELEC CELULAR - RS"
+  },
+  {
+    "segment": 4,
+    "code": "0270",
+    "dealership": "BRASIL TELEC CELULAR RS - PELOTAS"
+  },
+  {
+    "segment": 4,
+    "code": "0151",
+    "dealership": "BRASIL TELEC CELULAR GO"
+  },
+  {
+    "segment": 4,
+    "code": "0152",
+    "dealership": "BRASIL TELEC CELULAR - MT"
+  },
+  {
+    "segment": 4,
+    "code": "0154",
+    "dealership": "BRASIL TELEC CELULAR - PR"
+  },
+  {
+    "segment": 4,
+    "code": "0157",
+    "dealership": "BRASIL TELEC CELULAR - SC"
+  },
+  {
+    "segment": 4,
+    "code": "0153",
+    "dealership": "BRASIL TELEC CELULAR - MS"
+  },
+  {
+    "segment": 4,
+    "code": "0150",
+    "dealership": "BRASIL TELEC CELULAR - DF"
+  },
+  {
+    "segment": 4,
+    "code": "0089",
+    "dealership": "NEXTEL TELECOMUNICACOES LTDA"
+  },
+  {
+    "segment": 4,
+    "code": "0305",
+    "dealership": "EMBRATEL TV SAT TELECOM S/A"
+  },
+  {
+    "segment": 4,
+    "code": "0313",
+    "dealership": "14 BRASIL TELECOM CELULAR SA"
+  },
+  {
+    "segment": 4,
+    "code": "0291",
+    "dealership": "VIVO-AL"
+  },
+  {
+    "segment": 4,
+    "code": "0293",
+    "dealership": "VIVO-CE"
+  },
+  {
+    "segment": 4,
+    "code": "0290",
+    "dealership": "VIVO-PB"
+  },
+  {
+    "segment": 4,
+    "code": "0292",
+    "dealership": "VIVO-PE"
+  },
+  {
+    "segment": 4,
+    "code": "0294",
+    "dealership": "VIVO-PI"
+  },
+  {
+    "segment": 4,
+    "code": "0295",
+    "dealership": "VIVO-RN"
+  },
+  {
+    "segment": 4,
+    "code": "0370",
+    "dealership": "ESC 90 TELECOMUNICACOES LTDA"
+  },
+  {
+    "segment": 4,
+    "code": "0296",
+    "dealership": "NET SERVICOS DE COMUNICACAO SA"
+  },
+  {
+    "segment": 4,
+    "code": "0288",
+    "dealership": "JACAREI CABO SA"
+  },
+  {
+    "segment": 4,
+    "code": "0047",
+    "dealership": "VIVO-DF"
+  },
+  {
+    "segment": 4,
+    "code": "0049",
+    "dealership": "VIVO-MS"
+  },
+  {
+    "segment": 4,
+    "code": "0041",
+    "dealership": "VIVO-BA"
+  },
+  {
+    "segment": 4,
+    "code": "0042",
+    "dealership": "VIVO-SE"
+  },
+  {
+    "segment": 4,
+    "code": "0055",
+    "dealership": "VIVO-MT"
+  },
+  {
+    "segment": 4,
+    "code": "0074",
+    "dealership": "VIVO-MA"
+  },
+  {
+    "segment": 4,
+    "code": "0221",
+    "dealership": "CLARO NE DDD 81 A 89"
+  },
+  {
+    "segment": 4,
+    "code": "0073",
+    "dealership": "VIVO-AM"
+  },
+  {
+    "segment": 4,
+    "code": "0072",
+    "dealership": "VIVO-PA"
+  },
+  {
+    "segment": 4,
+    "code": "0081",
+    "dealership": "VIVO-TO"
+  },
+  {
+    "segment": 4,
+    "code": "0076",
+    "dealership": "VIVO-AP"
+  },
+  {
+    "segment": 4,
+    "code": "0075",
+    "dealership": "VIVO-RR"
+  },
+  {
+    "segment": 4,
+    "code": "0058",
+    "dealership": "VIVO-RO"
+  },
+  {
+    "segment": 4,
+    "code": "0053",
+    "dealership": "VIVO-AC"
+  },
+  {
+    "segment": 4,
+    "code": "0160",
+    "dealership": "CLARO CO DDD 61 A 69"
+  },
+  {
+    "segment": 4,
+    "code": "0297",
+    "dealership": "CLARO NO DDD 91 A 99"
+  },
+  {
+    "segment": 4,
+    "code": "0369",
+    "dealership": "TNL PCS SA"
+  },
+  {
+    "segment": 4,
+    "code": "0060",
+    "dealership": "VIVO-ES"
+  },
+  {
+    "segment": 4,
+    "code": "0071",
+    "dealership": "EBT LIVRE SA"
+  },
+  {
+    "segment": 4,
+    "code": "0113",
+    "dealership": "OI RJ-TNL PCS S.A."
+  },
+  {
+    "segment": 4,
+    "code": "0264",
+    "dealership": "NET CAMPINAS LTDA - SP"
+  },
+  {
+    "segment": 4,
+    "code": "0263",
+    "dealership": "NET RIO S.A. - RJ"
+  },
+  {
+    "segment": 4,
+    "code": "0251",
+    "dealership": "NET SAO PAULO LTDA - SP"
+  },
+  {
+    "segment": 4,
+    "code": "0252",
+    "dealership": "NET SANTOS - SP"
+  },
+  {
+    "segment": 4,
+    "code": "0257",
+    "dealership": "NET BRASILIA LTDA - DF"
+  },
+  {
+    "segment": 4,
+    "code": "0232",
+    "dealership": "NET BAGE - RS"
+  },
+  {
+    "segment": 4,
+    "code": "0237",
+    "dealership": "NET CHAPECO - SC"
+  },
+  {
+    "segment": 4,
+    "code": "0222",
+    "dealership": "NET PARANA COMUNICACOES LTDA"
+  },
+  {
+    "segment": 4,
+    "code": "0239",
+    "dealership": "NET ERECHIM - RS"
+  },
+  {
+    "segment": 4,
+    "code": "0241",
+    "dealership": "NET SANTA CRUZ DO SUL - RS"
+  },
+  {
+    "segment": 4,
+    "code": "0233",
+    "dealership": "NET PELOTAS - RS"
+  },
+  {
+    "segment": 4,
+    "code": "0158",
+    "dealership": "CLARO RJ/ES"
+  },
+  {
+    "segment": 4,
+    "code": "0165",
+    "dealership": "CLARO BA/SE/MG"
+  },
+  {
+    "segment": 4,
+    "code": "0082",
+    "dealership": "GVT-GLOBAL VILL"
+  },
+  {
+    "segment": 4,
+    "code": "0064",
+    "dealership": "VIVO MG-TELEMIG"
+  },
+  {
+    "segment": 4,
+    "code": "0005",
+    "dealership": "BRASIL TELECOM - RS PELOTAS"
+  },
+  {
+    "segment": 4,
+    "code": "0014",
+    "dealership": "BRASIL TELECOM - DF"
+  },
+  {
+    "segment": 4,
+    "code": "0017",
+    "dealership": "BRASIL TELECOM - MT"
+  },
+  {
+    "segment": 4,
+    "code": "0019",
+    "dealership": "BRASIL TELECOM - MS"
+  },
+  {
+    "segment": 4,
+    "code": "0020",
+    "dealership": "BRASIL TELECOM - PR"
+  },
+  {
+    "segment": 4,
+    "code": "0027",
+    "dealership": "BRASIL TELECOM - SC"
+  },
+  {
+    "segment": 4,
+    "code": "0079",
+    "dealership": "VIVO-RS"
+  },
+  {
+    "segment": 4,
+    "code": "0087",
+    "dealership": "IMAGE TEL UBERL"
+  },
+  {
+    "segment": 4,
+    "code": "0088",
+    "dealership": "IMAGE TEL ARAG"
+  },
+  {
+    "segment": 4,
+    "code": "0284",
+    "dealership": "ALGAR MULTIMIDIA"
+  },
+  {
+    "segment": 4,
+    "code": "0114",
+    "dealership": "IDT BRASIL TELECOMUNICACOES LTDA"
+  },
+  {
+    "segment": 4,
+    "code": "0109",
+    "dealership": "TIM CELULAR SA"
+  },
+  {
+    "segment": 4,
+    "code": "0056",
+    "dealership": "TIM SUL SA- PR"
+  },
+  {
+    "segment": 4,
+    "code": "0035",
+    "dealership": "MAXITEL SA-MG/BA/SE"
+  },
+  {
+    "segment": 4,
+    "code": "0046",
+    "dealership": "TIM NORDESTE TELECOM -PE"
+  },
+  {
+    "segment": 4,
+    "code": "0062",
+    "dealership": "TIM SUL S/A RS"
+  },
+  {
+    "segment": 4,
+    "code": "0052",
+    "dealership": "TIM NORDESTE TELECOM -AL"
+  },
+  {
+    "segment": 4,
+    "code": "0043",
+    "dealership": "TIM NORDESTE TELCOM -PB"
+  },
+  {
+    "segment": 4,
+    "code": "0040",
+    "dealership": "TIM NORDESTE TELECOM  RN"
+  },
+  {
+    "segment": 4,
+    "code": "0034",
+    "dealership": "TIM NORDESTE TELECOM CE"
+  },
+  {
+    "segment": 4,
+    "code": "0037",
+    "dealership": "TIM NORDESTE TELECOM PI"
+  },
+  {
+    "segment": 4,
+    "code": "0059",
+    "dealership": "TIM SUL S/A - TELESC SC"
+  },
+  {
+    "segment": 4,
+    "code": "0161",
+    "dealership": "CLARO RS"
+  },
+  {
+    "segment": 4,
+    "code": "0163",
+    "dealership": "CLARO PR/SC"
+  },
+  {
+    "segment": 4,
+    "code": "0069",
+    "dealership": "VIVO-PR/SC"
+  },
+  {
+    "segment": 4,
+    "code": "0048",
+    "dealership": "VIVO-RJ"
+  },
+  {
+    "segment": 4,
+    "code": "0078",
+    "dealership": "EBT LIVRE SP"
+  },
+  {
+    "segment": 4,
+    "code": "0007",
+    "dealership": "SERCOMTEL"
+  },
+  {
+    "segment": 4,
+    "code": "1029",
+    "dealership": "TELEFONICA"
+  },
+  {
+    "segment": 4,
+    "code": "0080",
+    "dealership": "VIVO-SP"
+  },
+  {
+    "segment": 4,
+    "code": "0084",
+    "dealership": "TELEFONICA EMPRESAS S/A"
+  },
+  {
+    "segment": 4,
+    "code": "0108",
+    "dealership": "TMAIS"
+  },
+  {
+    "segment": 4,
+    "code": "0006",
+    "dealership": "EMBRATEL CONTA TELEFONICAS"
+  },
+  {
+    "segment": 4,
+    "code": "0077",
+    "dealership": "INTELIG TELECOMUNICACOES LTDA"
+  },
+  {
+    "segment": 4,
+    "code": "0024",
+    "dealership": "TELEMAR RJ ANTIGA TELERJ"
+  },
+  {
+    "segment": 4,
+    "code": "0004",
+    "dealership": "ALGAR TELECOM"
+  },
+  {
+    "segment": 4,
+    "code": "0066",
+    "dealership": "TRIANGULO CELULAR"
+  },
+  {
+    "segment": 4,
+    "code": "0016",
+    "dealership": "BRASIL TELECOM - GO"
+  },
+  {
+    "segment": 4,
+    "code": "0044",
+    "dealership": "TELEGOIAS CELULAR S/A"
+  },
+  {
+    "segment": 4,
+    "code": "0002",
+    "dealership": "BRASIL TELECOM - RS"
+  },
+  {
+    "segment": 4,
+    "code": "0162",
+    "dealership": "CLARO SP DDD 11"
+  },
+  {
+    "segment": 4,
+    "code": "0159",
+    "dealership": "CLARO SP DDD 12 A 19"
+  },
+  {
+    "segment": 4,
+    "code": "0125",
+    "dealership": "EBT LIVRE SP CORP"
+  },
+  {
+    "segment": 4,
+    "code": "0126",
+    "dealership": "EBT LIVRE SA CORP"
+  },
+  {
+    "segment": 4,
+    "code": "0071",
+    "dealership": "EBT LIVRE SA"
+  },
+  {
+    "segment": 4,
+    "code": "0402",
+    "dealership": "PORTO CONECTA"
+  },
+  {
+    "segment": 5,
+    "code": "8027",
+    "dealership": "Guia GPS - INSS"
+  },
+  {
+    "segment": 5,
+    "code": "1032",
+    "dealership": "DAS - Simples Nacional"
+  }
+]
