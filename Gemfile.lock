@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    VerificadorBoletoBr (0.1.0)
+    verificador_boleto_br (0.1.1)
 
 GEM
   remote: https://rubygems.org/
@@ -26,10 +26,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  VerificadorBoletoBr!
   bundler (~> 2.0.1)
   rake (~> 10.0)
   rspec
+  verificador_boleto_br!
 
 BUNDLED WITH
    2.0.1

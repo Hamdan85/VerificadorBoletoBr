@@ -29,10 +29,12 @@ module VerificadorBoletoBr
     end
 
     def value_in_cents
+      return nil unless valid?
       clean_digitable_line[37..-1].to_i
     end
 
     def value
+      return nil unless valid?
       value_in_cents.to_f / 100
     end
 
