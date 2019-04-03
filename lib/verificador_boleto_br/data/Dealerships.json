@@ -2791,6 +2791,11 @@
   },
   {
     "segment": 4,
+    "code": "8006",
+    "dealership": "VIVO-MG"
+  },
+  {
+    "segment": 4,
     "code": "0370",
     "dealership": "ESC 90 TELECOMUNICACOES LTDA"
   },
