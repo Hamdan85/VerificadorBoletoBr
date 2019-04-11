@@ -91,6 +91,11 @@ module VerificadorBoletoBr
       global_validity && !groups_validity.map { |group| group[:valid] }.include?(false)
     end
 
+    # Duplicate just for mantaining module methods
+    def valid_without_global?
+      valid?
+    end
+
     def groups_validity
       grouped_digitable_line.map do |group|
         dv = send(bacen_module, group[:num]).to_s

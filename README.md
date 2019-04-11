@@ -76,6 +76,13 @@ It will return the respective slip class with its methods:
 
 You can access the slip classes directly if you want.
 
+## Special Feature
+Some bank slips do not validate the global digit well (anybody, feel free to explain me if my theory is correct) for example credit card slips (eg: NuBank). It may be because credit card bills can be paid with any value and global verification ensures that the value is also correct. This method allows to validate bank slips without global digit validation:
+
+````ruby
+slip.valid_without_global?
+````
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.

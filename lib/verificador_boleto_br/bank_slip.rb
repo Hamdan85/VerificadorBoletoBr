@@ -73,7 +73,11 @@ module VerificadorBoletoBr
     end
 
     def valid?
-      block_1_validity && block_2_validity && block_3_validity && global_validity
+      valid_without_global? && global_validity
+    end
+
+    def valid_without_global?
+      block_1_validity && block_2_validity && block_3_validity
     end
 
     def grouped_digitable_line
