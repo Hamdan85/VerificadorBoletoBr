@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    verificador_boleto_br (0.1.1)
+    verificador_boleto_br (0.1.4)
 
 GEM
   remote: https://rubygems.org/
