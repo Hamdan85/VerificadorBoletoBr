@@ -34,7 +34,7 @@ Or install it yourself as:
 ````ruby
 require './lib/verificador_boleto_br'
 >> slip = VerificadorBoletoBr.check('34191 75801 03928 662935 80573 180009 4 67700000007388')
-=> #<VerificadorBoletoBr::BankSlip:0x00007ff4c3933478 @digitable_line="34191 75801 03928 662935 80573 180009 4 67700000007388">
+=> #<VerificadorBoletoBr::Slip::Bank::Validity:0x00007f9f820c7a00 @digitable_line="34191 75801 03928 662935 80573 180009 4 67700000007388", @kind=:bank_slip>
 ````
 It will return the respective slip class with its methods:
 
@@ -47,6 +47,8 @@ It will return the respective slip class with its methods:
 => 341
 >> slip.currency_code 
 => 9
+>> slip.kind
+=> :bank_slip
 >> slip.value_in_cents
 => 7388
 >> slip.value
@@ -59,9 +61,11 @@ It will return the respective slip class with its methods:
 
 ````ruby
 >> slip = VerificadorBoletoBr.check('858900000018 097802702000 323858108001 011520190292')
-=> #<VerificadorBoletoBr::ArrecadationSlip:0x00007ff4c50c8d40 @digitable_line="858900000018 097802702000 323858108001 011520190292", @errors=[]>
+=> #<VerificadorBoletoBr::Slip::Arrecadation::Validity:0x00007f9f821bbd08 @digitable_line="858900000018 097802702000 323858108001 011520190292", @errors=[], @kind=:arrecadation_slip>
 >> slip.valid?
 => true
+>> slip.kind
+=> :arrecadation_slip
 >> slip.value_in_cents
 => 10978
 >> slip.value
@@ -75,6 +79,15 @@ It will return the respective slip class with its methods:
 ````
 
 You can access the slip classes directly if you want.
+
+## Assembling Digitable Line from BarCode
+
+````ruby
+slip = VerificadorBoletoBr.translate_barcode('34196773300001455851090806185172938349558000')
+=> #<VerificadorBoletoBr::Slip::Bank::CodeAssembly:0x00007f9f84810990 @code="34196773300001455851090806185172938349558000">
+>> slip.digitable_line 
+=> "34191090810618517293683495580009677330000145585"
+````
 
 ## Special Feature
 Some bank slips do not validate the global digit well (anybody, feel free to explain me if my theory is correct) for example credit card slips (eg: NuBank). It may be because credit card bills can be paid with any value and global verification ensures that the value is also correct. This method allows to validate bank slips without global digit validation:
