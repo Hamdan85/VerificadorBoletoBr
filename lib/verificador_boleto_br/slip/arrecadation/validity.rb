@@ -71,7 +71,7 @@ module VerificadorBoletoBr
         def identification
           begin
             JSON.parse(File.read('lib/verificador_boleto_br/data/Dealerships.json'))
-              .select { |d| d['code'] == clean_digitable_line[15..18] && d['segment'] == clean_digitable_line[1].to_i }[0]["dealership"]
+              .select { |d| d['code'] == clean_digitable_line[16..19] && d['segment'] == clean_digitable_line[1].to_i }[0]["dealership"]
           rescue
             "Boleto de #{segment}"
           end
