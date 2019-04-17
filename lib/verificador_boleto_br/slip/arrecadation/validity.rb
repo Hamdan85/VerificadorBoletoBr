@@ -69,12 +69,11 @@ module VerificadorBoletoBr
         end
 
         def identification
-          begin
-            JSON.parse(File.read('lib/verificador_boleto_br/data/Dealerships.json'))
-              .select { |d| d['code'] == clean_digitable_line[16..19] && d['segment'] == clean_digitable_line[1].to_i }[0]["dealership"]
-          rescue
-            "Boleto de #{segment}"
-          end
+          identification_str = JSON.parse(File.read(File.join( File.dirname(__FILE__), '../../data/Dealerships.json')))
+                                 .select { |d| d['code'] == clean_digitable_line[16..19] && d['segment'] == clean_digitable_line[1].to_i }[0]["dealership"]
+          return identification_str unless identification_str.nil?
+
+          "Boleto de #{segment}"
         end
 
         def bacen_module
