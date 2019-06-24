@@ -86,6 +86,8 @@ module VerificadorBoletoBr
             'modulo11'
           when '9'
             'modulo11'
+          else
+            raise ArgumentError, 'Invalid Digitable Line'
           end
         end
 
